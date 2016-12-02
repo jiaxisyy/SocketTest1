@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\Desktop\SocketTest1\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="C:\Users\shuang.xiang\Desktop\SocketTest1\app\build\intermediates\pre-dexed\debug\io.reactivex-rxandroid-1.2.1_2fa0ff9a17be72e79fd9a6a1b02a361923cf5503.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\shuang.xiang\Desktop\SocketTest1\app\build\intermediates\pre-dexed\debug\okio-1.11.0_38462e56d47a048212797eca467e1fb11cfa4b10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.7.5\7a15a7db50f86c4b64aa3367424a60e3a325b8f1\okhttp-2.7.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7a15a7db50f86c4b64aa3367424a60e3a325b8f1">
+        <dex dex="C:\Users\shuang.xiang\Desktop\SocketTest1\app\build\intermediates\pre-dexed\debug\okhttp-2.7.5_08c000b18103005bd5ec4c97a7d7399c27b4d97f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shuang.xiang\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.2.1\4e4cfa4adc74521d5966799fa5ab70b733552f68\rxjava-1.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4e4cfa4adc74521d5966799fa5ab70b733552f68">
+        <dex dex="C:\Users\shuang.xiang\Desktop\SocketTest1\app\build\intermediates\pre-dexed\debug\rxjava-1.2.1_06aa934a9ca266f6e913f597c53ac92d596d7d35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Studio\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\shuang.xiang\Desktop\SocketTest1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_9615f34d18d9e3666fb9175ad0bb700e613fbe5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\Studio\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\shuang.xiang\Desktop\SocketTest1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_9615f34d18d9e3666fb9175ad0bb700e613fbe5b.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,106 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* LICENSE
+* README.md
+* SocketTestService\
+* SocketTestService\.classpath
+* SocketTestService\.project
+* SocketTestService\.settings\
+* SocketTestService\.settings\org.eclipse.jdt.core.prefs
+* SocketTestService\bin\
+* SocketTestService\bin\com\
+* SocketTestService\bin\com\mina\
+* SocketTestService\bin\com\mina\MinaServer.class
+* SocketTestService\bin\com\mina\ServerHandler.class
+* SocketTestService\libs\
+* SocketTestService\libs\mina-core-2.0.7.jar
+* SocketTestService\libs\slf4j-api-1.6.6.jar
+* SocketTestService\libs\slf4j-nop-1.6.6.jar
+* SocketTestService\src\
+* SocketTestService\src\com\
+* SocketTestService\src\com\mina\
+* SocketTestService\src\com\mina\MinaServer.java
+* SocketTestService\src\com\mina\ServerHandler.java
+* SocketTest\
+* SocketTest\AndroidManifest.xml
+* SocketTest\libs\
+* SocketTest\libs\android-support-v4.jar
+* SocketTest\project.properties
+* SocketTest\res\
+* SocketTest\res\drawable-hdpi\
+* SocketTest\res\drawable-hdpi\ic_action_search.png
+* SocketTest\res\drawable-hdpi\ic_launcher.png
+* SocketTest\res\drawable-ldpi\
+* SocketTest\res\drawable-ldpi\ic_launcher.png
+* SocketTest\res\drawable-mdpi\
+* SocketTest\res\drawable-mdpi\ic_action_search.png
+* SocketTest\res\drawable-mdpi\ic_launcher.png
+* SocketTest\res\drawable-xhdpi\
+* SocketTest\res\drawable-xhdpi\ic_action_search.png
+* SocketTest\res\drawable-xhdpi\ic_launcher.png
+* SocketTest\res\layout\
+* SocketTest\res\layout\activity_main.xml
+* SocketTest\res\menu\
+* SocketTest\res\menu\activity_main.xml
+* SocketTest\res\values-v11\
+* SocketTest\res\values-v11\styles.xml
+* SocketTest\res\values-v14\
+* SocketTest\res\values-v14\styles.xml
+* SocketTest\res\values\
+* SocketTest\res\values\strings.xml
+* SocketTest\res\values\styles.xml
+* SocketTest\src\
+* SocketTest\src\org\
+* SocketTest\src\org\feng\
+* SocketTest\src\org\feng\sockettest\
+* SocketTest\src\org\feng\sockettest\MainActivity.java
+* SocketTest\src\org\feng\sockettest\server\
+* SocketTest\src\org\feng\sockettest\server\BackService.java
+* SocketTest\src\org\feng\sockettest\server\IBackService.aidl
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* src\com\example\sockettest\IBackService.aidl => app\src\main\aidl\com\example\sockettest\IBackService.aidl
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
